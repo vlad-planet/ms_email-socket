@@ -1,5 +1,4 @@
-# ms_email_socket
- microservices
+microservices
  
 ## Socket сервер для отправки Email + Безопасность данных
  
